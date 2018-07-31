@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>简历 </title>
+<style>
+h1
+ {
+  color: red;
+  font-size: 32px;\\字体大小\\
+  font-family:"Times New Roman",Georgia,Serif     \\字体\\
+  font-style;normal;\\字体格式\\
+  font-weight:bold;\\三个段落的字体的粗细\\
+  text-align:left;\\对齐方式\\
+  text-decoration:underline;\\文本修饰\\
+ }
+</style>
+<style>
+	p{
+		color:blue;
+		font-size:20px;
+		text-decoration:underline;
+		}
+		</style>
+<style>
+	h2{
+  color: green;
+  font-size:20px;\\字体大小\\
+  font-family:"Times New Roman",Georgia,Serif     \\字体\\
+  font-style:italic;\\字体格式\\
+  font-weight:bold;\\三个段落的字体的粗细\\
+  text-align:left;\\对齐方式\\
+  text-decoration:blink\\文本修饰\\
+  text-indent:50px\\第一行缩进 50 像素\\
+  text-shadow: 5px 5px 5px #FF0000;\\基础的文本阴影效果\\
+ }
+</style>
+<style>
+	p1
+	{
+		text-shadow:2px 2px 8px #FF0000;
+	}
+	</style>
+	
+</head>
+	<body>
+		<h1>个人简历</h1>
+		<p>姓名:张三</p>
+		<h2>联系方式<br><b>电话号码：110、qq：147147147</b></h2>
+		<p1>我在2018年暑假参加了静语计算机协会的培训，在其中担任了网站的网页开发. <br> </p1>
+		<a href ="http://www.baidu.com">看了我的简介，去百度逛逛吧。</a>
+		</body>
+	</head>
+</html> 
